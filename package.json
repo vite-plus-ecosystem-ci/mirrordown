@@ -60,8 +60,8 @@
     "vitest": "catalog:"
   },
   "resolutions": {
-    "vite": "npm:@voidzero-dev/vite-plus-core@1.4.0",
-    "vitest": "5.0.5"
+    "vite": "npm:@voidzero-dev/vite-plus-core@0.0.0-commit.06b09bc4982271512bf43048d53a278599f59508",
+    "vitest": "5.1.1"
   },
   "packageManager": "yarn@4.17.0"
 }
